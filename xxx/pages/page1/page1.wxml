@@ -1,0 +1,5 @@
+<!--page1.wxml-->
+<text>page1.wxml</text>
+<view>
+  <input placeholder="input"></input>
+</view>
